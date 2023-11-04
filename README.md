@@ -1,8 +1,33 @@
-# React + Vite
+# Image Gallery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project only for testing purpose.
 
-Currently, two official plugins are available:
+## Run Locally
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Clone the project
+
+```bash
+  git clone https://github.com/aakashwbd/gallery.git
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+## Demo
+
+https://aakashwbd.github.io/gallery
